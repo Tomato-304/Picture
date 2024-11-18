@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "fs.h": "c",
+        "poll.h": "c",
+        "sched.h": "c",
+        "wait.h": "c",
+        "cdev.h": "c",
+        "moduleparam.h": "c"
+    }
+}
